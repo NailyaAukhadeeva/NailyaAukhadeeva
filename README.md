@@ -1,6 +1,6 @@
 ### Наиля Аухадеева 
-Junior Data Analyst.
-
+Junior Data Analyst
+https://www.flaticon.com/ru/free-icon/vk_2504953
 ### Обо мне
 <!--
 **NailyaAukhadeeva/NailyaAukhadeeva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
