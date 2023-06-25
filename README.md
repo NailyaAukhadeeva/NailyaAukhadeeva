@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 Связаться со мной: <a href="https://telegram.me/Verba_Nailya">Telegram</a>
+<a href="mailto:n.aukhadeeva@gmail.com">n.aukhadeeva@gmail.com</a>
  
 
 
