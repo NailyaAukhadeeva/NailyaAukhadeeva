@@ -1,5 +1,7 @@
-### Hi there 👋
+### Наиля Аухадеева 
+Junior Data Analyst.
 
+### Обо мне
 <!--
 **NailyaAukhadeeva/NailyaAukhadeeva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
