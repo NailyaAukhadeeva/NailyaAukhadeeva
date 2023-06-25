@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Связаться со мной: <a href="tg://resolve?domain=Verba_Nailya">@Verba_Nailya</a>
+Связаться со мной: 
  <a href="https://t.me/Verba_Nailya</a>
 
 
