@@ -1,4 +1,4 @@
-### Наиля Аухадеева 
+### Наиля Аухадеева                         
 Junior Data Analyst
 
 ### Обо мне
@@ -17,3 +17,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <img src="https://komarev.com/ghpvc/?username=NailyaAukhadeeva&style=flat-square&color=blue" alt=""/>
+<img src="https://www.flaticon.com/ru/free-icon/vk_2504953" alt=""/>
