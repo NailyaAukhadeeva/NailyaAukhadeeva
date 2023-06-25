@@ -17,7 +17,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Связаться со мной:  https://t.me/<Verba_Nailya&gt;
+Связаться со мной: <a href="tg://resolve?domain=Verba_Nailya">Telegram</a>
+
 
 
 <img src="https://komarev.com/ghpvc/?username=NailyaAukhadeeva&style=flat-square&color=blue" alt=""/>
