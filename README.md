@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 Связаться со мной: 
- <a href="https://t.me/Verba_Nailya</a>
+ <https://t.me/Verba_Nailya</a>
 
 
 <img src="https://komarev.com/ghpvc/?username=NailyaAukhadeeva&style=flat-square&color=blue" alt=""/>
