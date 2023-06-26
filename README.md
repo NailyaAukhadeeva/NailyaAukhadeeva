@@ -7,7 +7,7 @@ Junior Data Analyst
 ### Проекты<br/>
 - Платформа "Карпов курсы" курс "Симулятор аналитика":
     * [А/А тестирование групп](https://github.com/NailyaAukhadeeva/A-A-test),
-    * [А/В тестирование CTR](https://github.com/NailyaAukhadeeva/A-B-test),
+    * [А/В тестирование изменения CTR](https://github.com/NailyaAukhadeeva/A-B-test-CTR),
     * [А/В-тесты изменения метрики линеаризованных лайков](https://github.com/NailyaAukhadeeva/A-B-test__)
 - [Платформа "Карпов курсы".Финальный проект "Аналитика данных".](https://github.com/NailyaAukhadeeva/Course-Data-analyst-Final-project/tree/main)
 
