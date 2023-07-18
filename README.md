@@ -5,12 +5,14 @@ Data Analyst
 Нахожусь в активном поиске работы по профилю аналитика данных. За плечами более 10 лет опыта системного анализа. Последние 1.5 года активно развиваюсь в сфере анализа данных. Уверена, что стану продуктивным сотрудником в команде, поскольку имею реальный позитивный опыт внедрения IT-продуктов, в общем я в "теме" <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">   
 
 ### Проекты<br/>
+* [ETL-pipeline](https://github.com/NailyaAukhadeeva/ETL-pipeline_airflow/tree/main)
+* [Тестовое задание](https://github.com/NailyaAukhadeeva/task_1)
+* [Тестовое задание](https://github.com/NailyaAukhadeeva/task_2)
 * [А/А тестирование групп](https://github.com/NailyaAukhadeeva/A-A-test),
 * [А/В тестирование изменения CTR](https://github.com/NailyaAukhadeeva/A-B-test-CTR),
 * [А/В-тесты изменения метрики линеаризованных лайков](https://github.com/NailyaAukhadeeva/A-B-test-by-the-metric-of-linearized-likes)
 * [Финальный проект](https://github.com/NailyaAukhadeeva/Course-Data-analyst-Final-project/tree/main)
-* [Тестовое задание](https://github.com/NailyaAukhadeeva/task_1)
-* [Тестовое задание](https://github.com/NailyaAukhadeeva/task_2)
+
 
 
 ### Навыки<br/>
