@@ -9,7 +9,8 @@ Data Analyst
 * [А/В тестирование изменения CTR](https://github.com/NailyaAukhadeeva/A-B-test-CTR),
 * [А/В-тесты изменения метрики линеаризованных лайков](https://github.com/NailyaAukhadeeva/A-B-test-by-the-metric-of-linearized-likes)
 * [Финальный проект](https://github.com/NailyaAukhadeeva/Course-Data-analyst-Final-project/tree/main)
-* [Тестовое задание](https://github.com/NailyaAukhadeeva/for_job_interviews)
+* [Тестовое задание](https://github.com/NailyaAukhadeeva/task_1)
+* [Тестовое задание](https://github.com/NailyaAukhadeeva/task_2)
 
 
 ### Навыки<br/>
