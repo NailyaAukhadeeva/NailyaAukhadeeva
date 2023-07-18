@@ -19,12 +19,12 @@ Data Analyst
 - Python (Pandas, Seaborn, Statsmodels, SciPy, NumPy),
 - SQL (ClickHouse, MySQL),
 - BI systems (SuperSet),
-- Redash
+- Redash,
 - Git,
 - Airflow,
 - Confluence,
 - 1C:ERP, 1C:УХ, 1С:Бухгалтерия
-- Excel
+- MS Excel
 
 ### Связаться со мной<br/> 
 - <a href="https://telegram.me/Verba_Nailya">Telegram</a> 
