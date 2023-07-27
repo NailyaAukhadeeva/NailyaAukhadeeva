@@ -5,6 +5,7 @@ Data Analyst
 Нахожусь в активном поиске работы по профилю аналитика данных. За плечами более 10 лет опыта системного анализа. Последние 1.5 года активно развиваюсь в сфере анализа данных. Уверена, что стану продуктивным сотрудником в команде, поскольку имею реальный позитивный опыт внедрения IT-продуктов, я в "теме"  <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f60f.png" width="25">  
 
 ### Проекты<br/>
+* [Отправка ежедневной overview отчетности в телеграм](https://github.com/NailyaAukhadeeva/ETL_report_to_telegram/tree/main)
 * [ETL-pipeline](https://github.com/NailyaAukhadeeva/ETL-pipeline_airflow/tree/main)
 * [Тестовое задание](https://github.com/NailyaAukhadeeva/task_1)
 * [Тестовое задание](https://github.com/NailyaAukhadeeva/task_2)
